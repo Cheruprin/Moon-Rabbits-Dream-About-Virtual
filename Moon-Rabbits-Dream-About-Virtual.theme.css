@@ -44,9 +44,9 @@
     --custom-text: " ʚ₍ᐢ. .ᐢ₎ɞ ";
 
     /* General Colors */
-    --border-color: #da4a60;
-    --drag-gradient1: #e8c4d3;
-    --drag-gradient2: #e39ba7;
+    --border-color: #f06092;
+    --drag-gradient1: #fcd2e3;
+    --drag-gradient2: #f7abc0;
     --name-bg: #d95b72;
 
     /* Background Colors & BG Image */
@@ -81,7 +81,7 @@
 
     /* Chatbar Colors */
     --channeltextarea-background: #F0F2F2;
-    --text-color: #313D40;
+    --text-color: #ffb0c8;
     --icon-color: var(--text-color);
     --selected-text-bg: var(--text-color);
     --selected-text-color: var(--channeltextarea-background);
