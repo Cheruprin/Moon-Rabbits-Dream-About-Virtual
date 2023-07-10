@@ -51,8 +51,8 @@
 
     /* Background Colors & BG Image */
     --bg-gradient1: #e297b2;
-    --bg-gradient2: #c0b4d5;
-    --bg-gradient3: #54b5de;
+    --bg-gradient2: #ffe8f5;
+    --bg-gradient3: #f58ebc;
     --bg-image: none; /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
